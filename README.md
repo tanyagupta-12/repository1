@@ -1,4 +1,4 @@
 # repository1
-This is my first git reository
+This is my first git repository
 <br>
-Author - Tanya Gupta
+Author - Tanya Engineer
